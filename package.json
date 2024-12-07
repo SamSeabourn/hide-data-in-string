@@ -6,7 +6,7 @@
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
     "author": "Sam Seabourn",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/SamSeabourn/hide-data-in-string",
     "repository": {
         "url": "https://github.com/SamSeabourn/hide-data-in-string"
