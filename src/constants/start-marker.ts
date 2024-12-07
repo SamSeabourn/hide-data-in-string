@@ -1,0 +1,1 @@
+export const START_MARKER = '\u2060';

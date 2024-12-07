@@ -1,7 +1,20 @@
 {
     "name": "hide-data-in-string",
     "license": "MIT",
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.ts",
+    "version": "0.0.1",
+    "homepage": "https://www.samseabourn.com",
+    "repository": {
+        "url": "https://github.com/SamSeabourn/hide-data-in-string"
+    },
+    "scripts": {
+        "build": "tsup src/index.ts --format cjs,esm --dts",
+        "lint": "tsc"
+    },
     "devDependencies": {
+        "tsup": "^8.3.5",
         "typescript": "^5.7.2"
     }
 }
