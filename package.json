@@ -1,7 +1,7 @@
 {
     "name": "hide-data-in-string",
     "license": "MIT",
-    "description": "Hide data in strings. A steganography library using invisible characters to encode data in text",
+    "description": "Hide data in strings. A steganography library using invisible characters to encode data in plain text",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
