@@ -1,0 +1,7 @@
+{
+    "name": "hide-data-in-string",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^5.7.2"
+    }
+}
