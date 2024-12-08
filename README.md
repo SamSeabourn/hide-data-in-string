@@ -1,5 +1,5 @@
-# Hide Data In String⁠‌​‍​‌‍‍‌​‍​​‌‍﻿‌‌﻿‌‌‌‍﻿‌⁡
-![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.1?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
+# Hide Data In String⁠‌​‍​‌‍‍‌​‍​​‌
+![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.4?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
 
 ### About🕵️
 hide-data-in-string is a lightweight npm package that enables you to embed and extract hidden messages within strings using invisible characters. By leveraging special Unicode characters, this package ensures that data remains hidden in plain sight, making it ideal for applications that require discreet data storage or messaging within text. The package works with both CommonJS (CJS) and ECMAScript Modules (ESM), and includes full TypeScript support.
@@ -76,7 +76,7 @@ console.log(parsedObject);
 ###### Digital Watermarking: Embed invisible markers in content for copyright or attribution purposes.
 ###### Tracking Interactions: Store interaction data in text to monitor user behavior without cookies.
 ###### Anti-Fraud Measures: Conceal identifiers or hashes in strings for secure verification processes.
-###### ⁠‌​‍​‌‍‍‌​‍​​‌‍﻿‌‌﻿‌‌‌‍﻿‌
+
 ___
 
 
