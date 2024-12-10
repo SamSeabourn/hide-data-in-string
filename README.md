@@ -1,12 +1,21 @@
-# Hide Data In String⁠‌​‍​‌‍‍‌​‍​​‌
-![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.4?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
+# Hide Data In String⁠ ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.4?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
 
-### About🕵️
-hide-data-in-string is a lightweight npm package that enables you to embed and extract hidden messages within strings using invisible characters. By leveraging special Unicode characters, this package ensures that data remains hidden in plain sight, making it ideal for applications that require discreet data storage or messaging within text. The package works with both CommonJS (CJS) and ECMAScript Modules (ESM), and includes full TypeScript support.
+### 🕵 ️ About 
+`hide-data-in-string` is a lightweight npm package that enables you to embed and extract portable, hidden data within strings using invisible character encoding. 
+These strings are fully portable and can be sent to and extracted by other applications using this library.
+By leveraging these special Unicode characters, this package ensures that data remains hidden in plain sight, making it ideal for applications that require discreet data storage or messaging within text. 
+This package works with both CommonJS (CJS) and ECMAScript Modules (ESM), and includes full TypeScript support.
 
 This is a simple example of data stenography, the practice of concealing data within non-obtrusive media, such as text or images, without altering its appearance to the human eye. With hide-data-in-string, you can apply this concept to web applications. This method ensures that your data remains hidden in plain sight, offering a stealthy solution for embedding metadata, secure messages, or tracking information in user-facing content.
 
+##### [Staring this repo](https://github.com/SamSeabourn/hide-data-in-string) 𝕚𝕤 𝕥𝕙𝕖 𝕖𝕒𝕤𝕚𝕖𝕤𝕥 𝕨𝕒𝕪 𝕥𝕠 𝕝𝕠𝕠𝕜 𝕝𝕚𝕜𝕖 𝕒 𝕥𝕖𝕒𝕞 𝕡𝕝𝕒𝕪𝕖𝕣 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕒𝕔𝕥𝕦𝕒𝕝𝕝𝕪 𝕔𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕟𝕘 𝕒𝕟𝕪𝕥𝕙𝕚𝕟𝕘 ✨🧠✨ 
+
+#
+#
+#
+
 ### 💻 Installation 
+npm
 ```bash
 npm install hide-data-in-string
 ```
@@ -36,13 +45,12 @@ console.log(extractedMessage);
 ```
 Checking for hidden data
 ```javascript
-
 console.log(hasEmbeddedData(stringWithEmbeddedData));  // true
 const normalString = "Hello, World!"
 console.log(hasEmbeddedData(normalString));  // false
 ```
-
-### 🤓 Advanced Usage
+#
+### 👽 Advanced Usage
 Embedding and Extracting Complex Data (e.g., Objects)
 You can also hide more complex data, such as JSON objects, within strings. This is especially useful when you need to transmit or store data in a compact, discreet form without exposing it directly.
 
@@ -70,19 +78,17 @@ console.log(parsedObject);
 ```
 
 ### 🚀 Use Cases
-###### Secure Messaging: Embed sensitive information within text without altering its visible content.
-###### Data Integrity: Track changes or store metadata in strings without risking exposure.
-###### Privacy-Focused Applications: Hide tracking or session data in plain sight for non-invasive user identification.
-###### Digital Watermarking: Embed invisible markers in content for copyright or attribution purposes.
-###### Tracking Interactions: Store interaction data in text to monitor user behavior without cookies.
-###### Anti-Fraud Measures: Conceal identifiers or hashes in strings for secure verification processes.
-
+- Messaging with metadata: Embed information within text without altering its visible content.
+- Data Integrity: Track changes or store metadata in strings without risking exposure.
+- Privacy-Focused Applications: Hide tracking or session data in plain sight for non-invasive user identification.
+- Digital Watermarking: Embed invisible markers in content for copyright or attribution purposes.
+- Tracking Interactions: Store interaction data in text to monitor user behavior without cookies.
+- Anti-Fraud Measures: Conceal identifiers or hashes in strings for secure verification processes.
 ___
-
 
 **Please use hide-data-in-string resposibly. Let's keep things fair and respect privacy**
 
 
-#### If you found this useful [please star on github](https://github.com/SamSeabourn/hide-data-in-string)🌟
+
 
 

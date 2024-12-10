@@ -1,12 +1,12 @@
 {
     "name": "hide-data-in-string",
     "license": "MIT",
-    "description": "Hide data in strings. A steganography library using invisible characters to encode data in plain text",
+    "description": "Embed portable data in strings. A steganography library using invisible characters to encode data in plain text",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
     "author": "Sam Seabourn",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "homepage": "https://github.com/SamSeabourn/hide-data-in-string",
     "repository": {
         "url": "https://github.com/SamSeabourn/hide-data-in-string"
