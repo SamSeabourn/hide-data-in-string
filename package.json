@@ -6,22 +6,27 @@
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
     "author": "Sam Seabourn",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "homepage": "https://github.com/SamSeabourn/hide-data-in-string",
     "repository": {
         "url": "https://github.com/SamSeabourn/hide-data-in-string"
     },
     "keywords": [
-        "data-steganography",
+        "security",
+        "sten",
+        "steganography",
+        "metadata",
+        "data-hiding",
         "text-encoding",
         "hidden-data",
-        "metadata-embedding",
-        "string-encryption",
-        "privacy-focused",
+        "cybersecurity",
+        "encryption",
+        "privacy",
         "secure-messaging",
         "invisible-data",
         "digital-watermarking",
-        "npm-package"
+        "npm-package",
+        "security"
     ],
     "scripts": {
         "build": "tsup src/index.ts --format cjs,esm --dts",
