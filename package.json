@@ -11,6 +11,18 @@
     "repository": {
         "url": "https://github.com/SamSeabourn/hide-data-in-string"
     },
+    "keywords": [
+        "data-steganography",
+        "text-encoding",
+        "hidden-data",
+        "metadata-embedding",
+        "string-encryption",
+        "privacy-focused",
+        "secure-messaging",
+        "invisible-data",
+        "digital-watermarking",
+        "npm-package"
+    ],
     "scripts": {
         "build": "tsup src/index.ts --format cjs,esm --dts",
         "lint": "tsc"

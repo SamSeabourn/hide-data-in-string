@@ -1,4 +1,4 @@
-# Hide Data In String⁠ ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.4?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
+# Hide Data In String⁠ ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.5?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
 
 ### 🕵 ️ About 
 `hide-data-in-string` is a lightweight npm package that enables you to embed and extract portable, hidden data within strings using invisible character encoding. 
@@ -10,9 +10,6 @@ This is a simple example of data stenography, the practice of concealing data wi
 
 ##### [Staring this repo](https://github.com/SamSeabourn/hide-data-in-string) 𝕚𝕤 𝕥𝕙𝕖 𝕖𝕒𝕤𝕚𝕖𝕤𝕥 𝕨𝕒𝕪 𝕥𝕠 𝕝𝕠𝕠𝕜 𝕝𝕚𝕜𝕖 𝕒 𝕥𝕖𝕒𝕞 𝕡𝕝𝕒𝕪𝕖𝕣 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕒𝕔𝕥𝕦𝕒𝕝𝕝𝕪 𝕔𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕟𝕘 𝕒𝕟𝕪𝕥𝕙𝕚𝕟𝕘 ✨🧠✨ 
 
-#
-#
-#
 
 ### 💻 Installation 
 npm
