@@ -1,4 +1,4 @@
-# Hide Data In String⁠ ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.5?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
+# Hide Data In String⁠ ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555) ![ts](https://flat.badgen.net/badge/version/0.0.6?labelColor=green&color=555555)  ![ts](https://flat.badgen.net/badge/dependecies/0?labelColor=blue&color=555555)
 
 ### 🕵 ️ About 
 `hide-data-in-string` is a lightweight npm package that enables you to embed and extract portable, hidden data within strings using invisible character encoding. 
